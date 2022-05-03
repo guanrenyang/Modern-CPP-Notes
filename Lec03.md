@@ -44,3 +44,5 @@ c.data()// array.data()返回数组再内存里面起点的地址
 ```
 
 *array* 必须指明长度. 
+
+Vector的`push_front`需要把整个数组向后推一格。  
